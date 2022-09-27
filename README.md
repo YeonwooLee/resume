@@ -12,7 +12,8 @@ Email: fox_93@naver.com
 GitHub: https://github.com/YeonwooLee
 
 # 학습
-[그간한거 링크](http://www.google.co.kr)
+[블로그](https://yanoos.tistory.com/category/cs)
+
 
 # 프로젝트
 [주소에 대한 설명](http://www.google.co.kr)

@@ -12,7 +12,7 @@ Email: fox_93@naver.com
 GitHub: https://github.com/YeonwooLee
 
 # 학습
-[블로그](https://yanoos.tistory.com/category/cs)
+[블로그](https://github.com/YeonwooLee/cs/tree/main/datastructure%26algorithm)
 
 
 # 프로젝트

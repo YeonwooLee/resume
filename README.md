@@ -1,9 +1,7 @@
 # 이력서
 ![image](https://user-images.githubusercontent.com/29223461/190564953-35433d30-d72b-44d4-89bc-7c06bc0ec606.png)
 
-
-안드로이드 개발자 이연우입니다 :)
-
+#### 소통과 협력을 중시하는 개발자 이연우입니다.
 
 이름: 이연우
 
@@ -11,8 +9,11 @@ Email: fox_93@naver.com
 
 GitHub: https://github.com/YeonwooLee
 
-# 학습
-[블로그](https://github.com/YeonwooLee/cs/tree/main/datastructure%26algorithm)
+# 사용기술
+### BACK-END
+
+- `Spring Boot` `JPA`
+- `MVC` `REST API`
 
 # 프로젝트
 

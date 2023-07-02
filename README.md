@@ -10,10 +10,21 @@ Email: fox_93@naver.com
 GitHub: https://github.com/YeonwooLee
 
 # 사용기술
+
+### Language
+
+- `java` `python`
+
 ### BACK-END
 
 - `Spring Boot` `JPA`
 - `MVC` `REST API`
+
+
+
+### Cloud
+
+- `AWS EC2` `AWS RDS`
 
 # 프로젝트
 
